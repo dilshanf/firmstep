@@ -1,5 +1,9 @@
 # firmstep
-This application is made using CodeIgniter a popular PHP Framework.
+This application is made using CodeIgniter a popular PHP Framework. CodeIgniter provides a simple MVC approach that is easy to use for smaller tasks, and it's easy to set-up and get going.
+
+For the Queue table - I have used jQuery datatable (https://datatables.net/) a fully featured responsive solution.
+To update sql tables - Ajax + CodeIgniter
+
 To install please follow these steps
 
 1. Download the code and host it in your favourite server
