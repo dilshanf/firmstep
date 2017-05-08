@@ -2,7 +2,10 @@
 This application is made using CodeIgniter a popular PHP Framework. CodeIgniter provides a simple MVC approach that is easy to use for smaller tasks, and it's easy to set-up and get going.
 
 For the Queue table - I have used jQuery datatable (https://datatables.net/) a fully featured responsive solution.
+
 To update sql tables - Ajax + CodeIgniter
+
+I have implemented frontend validations for this using jquery validate (https://jqueryvalidation.org/)
 
 To install please follow these steps
 
